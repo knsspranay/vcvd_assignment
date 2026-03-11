@@ -1,6 +1,6 @@
 ## **KATTA PRANAY** **(S2510787046)**
 
-## Assignment Description
+## Assignment Description:
 This tool implements the Pacejka "Magic Formula" for a tyre model based on the Pure Slip equations provided in the assignment (Tables 2 and 3).
 
 ## My Interpretation:
