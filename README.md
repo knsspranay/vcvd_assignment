@@ -1,4 +1,4 @@
-KATTA PARNAY
+KATTA PRANAY
 S2510787046
 
 Run the main script with the required arguments:
