@@ -14,7 +14,8 @@ def main():
     args = parser.parse_args()
 
     # Calculate Load (Fz) on each wheel
-    g = 9.81
+    from scipy import constants
+    g = constants.g
     fz_total = args.weight * g
     fz_per_wheel = fz_total / 4.0
 
